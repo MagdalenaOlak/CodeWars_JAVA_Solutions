@@ -10,5 +10,13 @@ Java task solutions at CodeWars
             return number % 2 ==0 ? "Even" : "Odd";      
           }
       }
+      
+- [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/java)        
+      
+      public class Multiply {
+            public static Double multiply(Double a, Double b) {
+            return a * b;
+            }
+      }
     
     
